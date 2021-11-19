@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+2007年巨蟹男，居住于中国大陆
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+喜欢打游戏，编程，度科幻小说
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email.163.com](mailto:email.163.com)
